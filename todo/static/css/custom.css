@@ -1,0 +1,31 @@
+.adanger{
+    color: #e61607; /* red */
+}
+
+.bwarning{
+    color: #c98b04; /* orange */
+}
+
+.csuccess{
+    color: #168508; /* green */
+}
+
+.dprimary{
+    color: #0796de; /* blue */
+}
+
+.adanger:hover{
+    color: #dc3545; /* red */
+}
+
+.bwarning:hover{
+    color: #ffc107; /* orange */
+}
+
+.csuccess:hover{
+    color: #28a745; /* green */
+}
+
+.dprimary:hover{
+    color: #007bff; /* blue */
+}
